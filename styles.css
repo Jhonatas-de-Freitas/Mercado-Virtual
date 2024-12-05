@@ -1,6 +1,6 @@
 body {
     font-family: Arial, sans-serif;
-    background-color: #f8f8f8;
+    background-color: #ffffff;
 }
 
 nav {
@@ -9,8 +9,8 @@ nav {
 }
 
 .nav-link {
-    color: #FFD700 !important;
-    /* Amarelo para os links */
+    color: #000000 !important;
+    /* preto para os links */
 }
 
 h1,
@@ -28,5 +28,5 @@ section {
 
 footer {
     background-color: #007BFF;
-    color: white;
+    color: rgb(0, 0, 0);
 }
