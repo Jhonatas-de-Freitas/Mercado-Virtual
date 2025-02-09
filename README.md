@@ -12,9 +12,7 @@ Agendar a retirada ou entrega dos produtos.
 
 # 🖥️ Visualize o Projeto
 ---
-Você pode acessar e visualizar o projeto através do link abaixo:
-
-[VER PROJETO](https://jhonatas-de-freitas.github.io/Mercado-Virtual/)
+Você pode acessar e visualizar o projeto através do link abaixo: [VER PROJETO](https://jhonatas-de-freitas.github.io/Mercado-Virtual/)
 
 # 🚀 Tecnologias Utilizadas
 ---
