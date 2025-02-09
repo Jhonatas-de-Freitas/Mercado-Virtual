@@ -1,8 +1,10 @@
-# Mercado Virtual
+# Mercado Virtual 🛒
 ---
 Este é um projeto de um Mercado Virtual desenvolvido com HTML, CSS e JavaScript. 
 
+
 O sistema permite:
+
 
 Visualizar os preços de produtos à venda no Mercado Piltover.
 
