@@ -27,6 +27,3 @@ Você pode acessar e visualizar o projeto através do link abaixo: [VER PROJETO]
 # Contato Autor 📧
 ---
 Jhonatas de Freitas - [jhonatas.freitas@icloud.com](mailto:jhonatas.freitas@icloud.com)
-
-![GitHub Snake Animation](https://github.com/Jhonatas-de-Freitas/Jhonatas-de-Freitas/blob/output/github-contribution-grid-snake.svg)
-
