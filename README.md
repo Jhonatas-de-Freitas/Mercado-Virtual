@@ -1,15 +1,16 @@
-Mercado Virtual
-
+# Mercado Virtual
+---
 Este é um projeto de um Mercado Virtual desenvolvido com HTML, CSS e JavaScript. O sistema permite:
 
 Visualizar os preços de produtos à venda no Mercado Piltover.
 Verificar as opções de entrega disponíveis.
 Se cadastrar para receber ofertas exclusivas.
 Agendar a retirada ou entrega dos produtos.
+
 🖥️ Visualize o Projeto
 Você pode acessar e visualizar o projeto através do link abaixo:
 
-Ver Projeto
+[VER PROJETO](https://jhonatas-de-freitas.github.io/Mercado-Virtual/)
 
 🚀 Tecnologias Utilizadas
 
