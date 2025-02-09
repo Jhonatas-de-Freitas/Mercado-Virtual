@@ -24,7 +24,7 @@ Você pode acessar e visualizar o projeto através do link abaixo: [VER PROJETO]
 
 **JavaScript**: Para implementar a funcionalidade de "Boas-vindas ao Mercado Piltover".
 
-# Contato 📧
+# Contato Autor 📧
 ---
 Jhonatas de Freitas - [jhonatas.freitas@icloud.com](mailto:jhonatas.freitas@icloud.com)
 
